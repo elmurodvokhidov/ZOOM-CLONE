@@ -22,7 +22,7 @@ This project aims to replicate the functionality of the popular video conferenci
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![ShadcnUI](https://img.shields.io/badge/ShadcnUI-3498DB?style=for-the-badge&logo=material-ui&logoColor=white)](https://shadcnui.com/)
-[![Clark](https://img.shields.io/badge/Clark-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://clark.io/)
+[![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.io/)
 [![Stream](https://img.shields.io/badge/Stream-00BFFF?style=for-the-badge&logo=apache-rocketmq&logoColor=white)](https://stream.io/)
 
 ## Acknowledgments
