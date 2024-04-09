@@ -15,10 +15,11 @@ import {
     SpeakerLayout,
     useCallStateHooks
 } from "@stream-io/video-react-sdk";
-import { LayoutList, Loader, Users } from "lucide-react";
+import { LayoutList, Users } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 import { useState } from "react";
 import EndCallButton from "./EndCallButton";
+import Loader from "./Loader";
 
 type CallLayoutType = "grid" | "speaker-left" | "speaker-right";
 
