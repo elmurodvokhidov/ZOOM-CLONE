@@ -77,7 +77,7 @@ const CallList = ({ type }: { type: "ended" | "upcoming" | "recordings" }) => {
                                 "/icons/upcoming.svg" :
                                 "/icons/recordings.svg"
                     }
-                    title={meeting.state?.custom?.description.substring(0, 26) || meeting.filename?.substring(0, 26) || "No description"}
+                    title={meeting.state?.custom?.description?.substring(0, 26) || meeting?.filename?.substring(0, 26) || "Personal Meeting"}
                     date={meeting.state?.startsAt?.toLocaleString() || meeting.start_time?.toLocaleString()}
                     isPreviousMeeting={type === "ended"}
                     buttonIcon1={type === "recordings" ? "/icons/play.svg" : undefined}
